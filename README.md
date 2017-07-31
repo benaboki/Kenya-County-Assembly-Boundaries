@@ -17,9 +17,7 @@ References:
 2. Exploring Kenya's Inequality. Pulling Apart or Pooling together? Kenya National Bureau of Statistics (KNBS) and Society for International Development (SID). 2013.
 3. OpenStreetMap
 
-Map specifications:
-Scale = 1: 50,000
-CRS = EPSG: 4326, WGS 84 
+Map specifications: Scale = 1: 50,000; CRS = EPSG: 4326, WGS 84; Encoding = UTF-8 
 
 Disclaimer:
 The datasets included in this repository were derived from digital databases developed by the authors. The designations employed and the presentation of material in this repository do not imply the expression of any opinion on territory, area, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Care was taken in the creation of these maps but the authors can not guarantee that they are correct, accurate or comprehensive. The authors cannot accept any responsibility for errors, omissions, or positional accuracy. Notification of any errors will be appreciated.
