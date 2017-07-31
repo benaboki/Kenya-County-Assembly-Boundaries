@@ -9,7 +9,7 @@ Digitized using Quantum GIS (QGIS) using the following tools:
 1. Georeferencer
 2. Geoprocessing tools (Dissolve)
 3. v.clean (break, snap, rmarea, rmsa)
-4. Join attrbutes by location
+4. Join attributes by location
 5. Advanced editing (Merge selected features, Split features, Split parts, Node Tool)
 
 References:
