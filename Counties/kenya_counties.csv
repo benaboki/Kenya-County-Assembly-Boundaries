@@ -1,0 +1,48 @@
+County_ID,County,Former Province,Capital,Area,Code
+1,Mombasa,Coast,Mombasa (City),212.5,BAR
+2,Kwale,Coast,Kwale,8270.3,BOM
+3,Kilifi,Coast,Kilifi,12245.9,BUN
+4,Tana River,Coast,Hola,35375.8,BUS
+5,Lamu,Coast,Lamu,6497.7,ELG
+6,Taita Taveta,Coast,Voi,17083.9,EMB
+7,Garissa,North Eastern,Garissa,45720.2,GAR
+8,Wajir,North Eastern,Wajir,55840.6,HOM
+9,Mandera,North Eastern,Mandera,25797.7,ISI
+10,Marsabit,Eastern,Marsabit,66923.1,KAJ
+11,Isiolo,Eastern,Isiolo,25336.1,KAK
+12,Meru,Eastern,Meru,6930.1,KER
+13,Tharaka Nithi,Eastern,Chuka,2409.5,KIA
+14,Embu,Eastern,Embu,2555.9,KIL
+15,Kitui,Eastern,Kitui,24385.1,KIR
+16,Machakos,Eastern,Machakos,5952.9,KIS
+17,Makueni,Eastern,Wote,8008.9,KSM
+18,Nyandarua,Central,Ol Kalou,3107.7,KIT
+19,Nyeri,Central,Nyeri,2361,KWA
+20,Kirinyaga,Central,Kerugoya / Kutus,1205.4,LAI
+21,Murang'a,Central,Murang'a,2325.8,LAM
+22,Kiambu,Central,Kiambu,2449.2,MAC
+23,Turkana,Rift Valley,Lodwar,71597.8,MAK
+24,West Pokot,Rift Valley,Kapenguria,8418.2,MAN
+25,Samburu,Rift Valley,Maralal,20182.5,MAR
+26,Trans Nzoia,Rift Valley,Kitale,2469.9,MER
+27,Uasin Gishu,Rift Valley,Eldoret,2955.3,MIG
+28,Elgeyo Marakwet,Rift Valley,Iten,3049.7,MOM
+29,Nandi,Rift Valley,Kapsabet,2884.5,MUR
+30,Baringo,Rift Valley,Kabarnet,11075.3,NAI
+31,Laikipia,Rift Valley,Rumuruti,8696.1,NAK
+32,Nakuru,Rift Valley,Nakuru,7509.5,NAN
+33,Narok,Rift Valley,Narok,17921.2,NAR
+34,Kajiado,Rift Valley,Kajiado,21292.7,NYM
+35,Kericho,Rift Valley,Kericho,2454.5,NYN
+36,Bomet,Rift Valley,Bomet,1997.9,NYE
+37,Kakamega,Western,Kakamega,3033.8,SAM
+38,Vihiga,Western,Vihiga,531.3,SIA
+39,Bungoma,Western,Bungoma,2206.9,TAI
+40,Busia,Western,Busia,1628.4,TAN
+41,Siaya,Nyanza,Siaya,2496.1,THA
+42,Kisumu,Nyanza,Kisumu,2009.5,TRA
+43,Homa Bay,Nyanza,Homa Bay,3154.7,TUR
+44,Migori,Nyanza,Migori,2586.4,UAS
+45,Kisii,Nyanza,Kisii,1317.9,UNK
+46,Nyamira,Nyanza,Nyamira,912.5,VIH
+47,Nairobi,Nairobi,Nairobi (City),694.9,WAJ
