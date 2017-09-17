@@ -1,0 +1,10 @@
+Attributes
+1. ward_code (interger64)
+2. ward (string)
+3. ward_alias (string)
+4. const_code (interger64)
+5. const (string)
+6. county_code (interger64)
+7. county (string)
+8. ward_population (interger64)
+9. ward_area (decimal)
