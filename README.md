@@ -26,6 +26,8 @@ Digitized using Quantum GIS (QGIS) using the following tools:
 4. Join attributes by location
 5. Advanced editing (Merge selected features, Split features, Split parts, Node Tool)
 
+This directory contains a subdirectory called "Counties" which contains individual folders for each county in Kenya. Individual maps and lists of wards and constituencies will be included in each of these folders.
+
 References:
 1. Proposed Constituency and County Assesmbly Wards, On the First Review RElating to the Delimitation of Boundaries of Constituencies and Boundaries of Constituencies and Wards. The Independent Electoral and Boundaries Commission, 9th January 2012.
 2. Exploring Kenya's Inequality. Pulling Apart or Pooling together? Kenya National Bureau of Statistics (KNBS) and Society for International Development (SID). 2013.
